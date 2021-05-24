@@ -1,0 +1,15 @@
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.exe
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.deps.json
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.runtimeconfig.json
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.runtimeconfig.dev.json
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.dll
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\bin\Debug\netcoreapp3.1\AddressApp.pdb
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.csprojAssemblyReference.cache
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.AddressForm.resources
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.csproj.GenerateResource.cache
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.AssemblyInfoInputs.cache
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.AssemblyInfo.cs
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.csproj.CoreCompileInputs.cache
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.dll
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.pdb
+C:\Users\Aneta\Desktop\AddressAppSol\AddressApp\obj\Debug\netcoreapp3.1\AddressApp.genruntimeconfig.cache

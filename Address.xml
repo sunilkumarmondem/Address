@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfAddress xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Address>
+    <Id>1</Id>
+    <FirstName>kumar</FirstName>
+    <LastName>ada</LastName>
+    <StreetName>ad</StreetName>
+    <HouseNumber>7</HouseNumber>
+    <ApartmentNumber>7</ApartmentNumber>
+    <PostalCode>74-852</PostalCode>
+    <Town>sf</Town>
+    <PhoneNumber>778855441</PhoneNumber>
+    <DateOfBirth>1990-02-15T19:54:06</DateOfBirth>
+    <Age>31</Age>
+  </Address>
+  <Address>
+    <Id>3</Id>
+    <FirstName>csf</FirstName>
+    <LastName>sfs</LastName>
+    <StreetName>sfs</StreetName>
+    <HouseNumber>4</HouseNumber>
+    <ApartmentNumber>7</ApartmentNumber>
+    <PostalCode>47-745</PostalCode>
+    <Town>dgdg</Town>
+    <PhoneNumber>7744112</PhoneNumber>
+    <DateOfBirth>2003-03-14T19:55:12</DateOfBirth>
+    <Age>18</Age>
+  </Address>
+</ArrayOfAddress>
